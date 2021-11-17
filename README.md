@@ -20,5 +20,9 @@ A mobile app created with Flutter
 
 <h2>Run App</h2>
 <ul>
+  <li type="circle"><h3><a href="https://github.com/johanz97/flutter-googleSignIn-app-server">Require Server</a></h3></li>
+</ul>
+
+<ul>
   <li type="circle"><h3>Flutter run</h3></li>
 </ul>
